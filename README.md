@@ -1,3 +1,6 @@
+# Orthodox
+A Spigot plugin for Minecraft
+
 # What is Orthodox?
 Orthodox is a Minecraft plugin that allows players to do proximity chat (via Skoice), fly around and more!
 
