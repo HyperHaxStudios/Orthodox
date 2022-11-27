@@ -12,10 +12,10 @@ You can get it through [here](https://github.com/hyperhaxstudios/orthodox/releas
 
 # How do I install this plugin?
 There are 2 VERSIONS of Orthodox:
-Orthodox (19.2)
+Orthodox (1.19.2)
 Orthodox 10.2 Edition
 
-Orthodox (19.2) requires Spigot 1.19.2 Server to be installed.
+Orthodox (1.19.2) requires Spigot 1.19.2 Server to be installed.
 Orthodox 10.2 Edition requires Spigot 1.10.2 Server to be installed.
 
 Both plugins can be installed by a simple drag n' drop in the "plugins" folder.
