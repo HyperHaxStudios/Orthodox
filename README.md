@@ -11,11 +11,13 @@ This plugin is a Spigot plugin. With the knowledge of Java.
 You can get it through [here](https://github.com/hyperhaxstudios/orthodox/releases/latest)
 
 # How do I install this plugin?
-There are 2 VERSIONS of Orthodox:
+There are 4 VERSIONS of Orthodox:
 Orthodox (1.19.2)
 Orthodox 10.2 Edition
+Orthodox Fabric Edition and
+Orthodox Forge Edition
 
 Orthodox (1.19.2) requires Spigot 1.19.2 Server to be installed.
 Orthodox 10.2 Edition requires Spigot 1.10.2 Server to be installed.
 
-Both plugins can be installed by a simple drag n' drop in the "plugins" folder.
+Both plugins can be installed by a simple drag n' drop in the "plugins" folder or for Fabric/Forge the "mods" folder.
