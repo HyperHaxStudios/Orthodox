@@ -1,0 +1,18 @@
+name: Orthodox
+version: '${project.version}'
+main: com.hyperhaxstudios.orthodox.Orthodox
+api-version: 1.19
+commands:
+  Fly:
+    description: Toggles flying for command sender.
+    usage: /fly
+    aliases: [f, flying]
+  Menu:
+    description: Shows a list of things to play
+    usage: /menu
+    aliases: m
+  setSpawn:
+    description: Sets server spawn
+    usage: /spawn
+    aliases: ss
+    permission: spawn.teleport
